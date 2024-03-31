@@ -1,0 +1,3 @@
+_G.TackleSpeed = 2
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GodYT88/ffff/main/README.md"))()
